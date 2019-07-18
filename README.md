@@ -1,1 +1,1 @@
-# clock-r
+# courses-store (NodeJS, Express, Handlebars)
